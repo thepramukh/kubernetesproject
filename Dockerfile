@@ -1,5 +1,5 @@
 FROM centos:latest
-MAINTAINER karan.k.kohli@oracle.in
+MAINTAINER karan.k.kohli@oracle.com
 RUN yum install -y httpd \
 zip \
 unzip
